@@ -6,10 +6,9 @@ Flutter ve Dart ile hazırlanmış, eğitim amaçlı basit bir ürün kataloğu.
 
 - Ayrı ana sayfa ve ürün listesi
 - Named Routes ve Route Arguments ile ürün detayına veri taşıma
-
 - Ürünleri kartlar halinde listeleme
 - Ürün adı ve kategoriye göre arama
-- Ürün detayı ve sayfalar arasında ürün verisi taşıma
+- Ürün detay ekranı
 - Sepete ekleme, sepetten çıkarma ve toplam tutar
 - Boş sepet ve sonuç bulunamadı durumları
 - Canlı API ürünleri, uzak ürün görselleri ve banner
@@ -52,7 +51,7 @@ Widget testi; arama, ürün detayı, sepete ekleme, çıkarma, boş sepet ve son
 ## Klasör yapısı
 
 - `lib/models/`: Ürün modeli ve JSON dönüşümleri
-- `lib/screens/`: Katalog, detay ve sepet ekranları
+- `lib/screens/`: Ana sayfa, katalog, detay ve sepet ekranları
 - `lib/widgets/`: Ortak ürün görseli bileşeni
 - `lib/services/`: Ek paket olmadan HTTP isteği (mobilde dart:io, webde Fetch)
 - `assets/products.json`: Test için yerel örnek ürünler
@@ -74,4 +73,3 @@ Widget testi; arama, ürün detayı, sepete ekleme, çıkarma, boş sepet ve son
 - Banner: https://wantapi.com/assets/banner.png
 - Fiyatlar API’nin verdiği USD para biriminde gösterilir; TL dönüşümü yapılmaz.
 - İçerik eğitim ve demo amaçlıdır. Ürün adları ve markalar sahiplerine aittir; proje Apple ile bağlantılı değildir.
-- Alternatif API’ler incelenmiştir; çalışan ana kaynak WantAPI kullanılmıştır.
