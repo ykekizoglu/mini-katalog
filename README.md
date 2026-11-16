@@ -68,10 +68,6 @@ Widget testi; arama, ürün detayı, sepete ekleme, çıkarma, boş sepet ve son
 ![Sepet](docs/screenshots/03-sepet.png)
 ![Boş sepet](docs/screenshots/04-bos-sepet.png)
 
-## Teslim
-
-Yönergeye göre proje herkese açık bir GitHub deposunda paylaşılmalı ve depo bağlantısı teslim edilmelidir. Depo bağlantısı: https://github.com/ykekizoglu/mini-katalog
-
 ## Veri kaynağı
 
 - Ürünler: https://wantapi.com/products.php
