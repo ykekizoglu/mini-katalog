@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Bez Çanta",
+    "price": 149,
+    "description": "Günlük kullanım için hafif ve kullanışlı pamuklu bez çanta.",
+    "category": "Aksesuar",
+    "image": "assets/images/product_1.png"
+  },
+  {
+    "id": 2,
+    "name": "Seramik Kupa",
+    "price": 189,
+    "description": "Çay ve kahve molaları için sade tasarımlı seramik kupa.",
+    "category": "Ev",
+    "image": "assets/images/product_2.png"
+  },
+  {
+    "id": 3,
+    "name": "Çizgili Defter",
+    "price": 79,
+    "description": "Notlarınız ve günlük planlarınız için 80 yapraklı defter.",
+    "category": "Kırtasiye",
+    "image": "assets/images/product_3.png"
+  },
+  {
+    "id": 4,
+    "name": "Masa Lambası",
+    "price": 449,
+    "description": "Çalışma masanıza sıcak bir ışık katan ayarlanabilir lamba.",
+    "category": "Ev",
+    "image": "assets/images/product_4.png"
+  },
+  {
+    "id": 5,
+    "name": "Çelik Termos",
+    "price": 329,
+    "description": "İçeceğinizi yanınızda taşıyabileceğiniz 500 ml çelik termos.",
+    "category": "Aksesuar",
+    "image": "assets/images/product_5.png"
+  },
+  {
+    "id": 6,
+    "name": "Kurşun Kalem Seti",
+    "price": 59,
+    "description": "Yazı ve çizim için altı adet ahşap kurşun kalem.",
+    "category": "Kırtasiye",
+    "image": "assets/images/product_6.png"
+  }
+]
